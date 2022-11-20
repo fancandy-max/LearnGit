@@ -5,3 +5,4 @@ Practice vi.
 Practice vi.
 Add a single line.
 Creating a new branch is quick and simple add merge.
+merge with ff.
