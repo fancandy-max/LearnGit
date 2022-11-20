@@ -3,4 +3,5 @@ Git is free software.
 Practice vi.
 Practice vi.
 Practice vi.
-Add a single line,
+Add a single line.
+Creating a new branch is quick.
